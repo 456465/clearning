@@ -1,0 +1,543 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(1116,5): warning MSB8027: 名为 absInt.cpp 的两个或更多文件将生成到同一位置的输出。这会导致错误的生成结果。   调用的文件是 10\absInt.cpp, 14\absInt.cpp。
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(1116,5): warning MSB8027: 名为 avg_price.cpp 的两个或更多文件将生成到同一位置的输出。这会导致错误的生成结果。   调用的文件是 10\avg_price.cpp, 1\avg_price.cpp, 7\avg_price.cpp。
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(1116,5): warning MSB8027: 名为 newcount-size.cpp 的两个或更多文件将生成到同一位置的输出。这会导致错误的生成结果。   调用的文件是 10\newcount-size.cpp, 14\newcount-size.cpp。
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(1116,5): warning MSB8027: 名为 useBlob.cpp 的两个或更多文件将生成到同一位置的输出。这会导致错误的生成结果。   调用的文件是 12\useBlob.cpp, 16\useBlob.cpp。
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(1116,5): warning MSB8027: 名为 substr.cpp 的两个或更多文件将生成到同一位置的输出。这会导致错误的生成结果。   调用的文件是 13\substr.cpp, 9\substr.cpp。
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(1116,5): warning MSB8027: 名为 add.cpp 的两个或更多文件将生成到同一位置的输出。这会导致错误的生成结果。   调用的文件是 14\add.cpp, 1\add.cpp。
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(1116,5): warning MSB8027: 名为 calc.cpp 的两个或更多文件将生成到同一位置的输出。这会导致错误的生成结果。   调用的文件是 14\calc.cpp, 19\calc.cpp。
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(1116,5): warning MSB8027: 名为 Sales_data.cpp 的两个或更多文件将生成到同一位置的输出。这会导致错误的生成结果。   调用的文件是 14\Sales_data.cpp, 16\Sales_data.cpp, 18\Sales_data.cpp, 2\Sales_data.cpp, 7\Sales_data.cpp。
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(1116,5): warning MSB8027: 名为 debug.cpp 的两个或更多文件将生成到同一位置的输出。这会导致错误的生成结果。   调用的文件是 16\debug.cpp, 7\Debug.cpp。
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(1116,5): warning MSB8027: 名为 prec.cpp 的两个或更多文件将生成到同一位置的输出。这会导致错误的生成结果。   调用的文件是 17\prec.cpp, 4\prec.cpp。
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(1116,5): warning MSB8027: 名为 useScreen.cpp 的两个或更多文件将生成到同一位置的输出。这会导致错误的生成结果。   调用的文件是 19\useScreen.cpp, 7\useScreen.cpp。
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(1116,5): warning MSB8027: 名为 add_item.cpp 的两个或更多文件将生成到同一位置的输出。这会导致错误的生成结果。   调用的文件是 1\add_item.cpp, 7\add_item.cpp, 8\add_item.cpp。
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(1116,5): warning MSB8027: 名为 add_item2.cpp 的两个或更多文件将生成到同一位置的输出。这会导致错误的生成结果。   调用的文件是 1\add_item2.cpp, 5\add_item2.cpp。
+  accum.cpp
+  accum4.cpp
+  avg_price.cpp
+D:\cLearning\VisualStudio2012\10\avg_price.cpp(36,10): fatal  error C1083: 无法打开包括文件: “Sales_item.h”: No such file or directory
+  bind2.cpp
+  elimDups.cpp
+  equal.cpp
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt\corecrt_math.h(525,47): error C2375: “lround”: 重定义；不同的链接
+D:\cLearning\VisualStudio2012\Version_test.h(74,13): message : 参见“lround”的声明
+  equiv-istream-iter.cpp
+  inserters.cpp
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt\corecrt_math.h(525,47): error C2375: “lround”: 重定义；不同的链接
+D:\cLearning\VisualStudio2012\Version_test.h(74,13): message : 参见“lround”的声明
+  iostream_iter.cpp
+  lambda.cpp
+  newcount-size.cpp
+D:\cLearning\VisualStudio2012\10\newcount-size.cpp(55,10): fatal  error C1083: 无法打开包括文件: “make_plural.h”: No such file or directory
+  ostreamIter2.cpp
+  rcomma.cpp
+  rev-iters.cpp
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt\corecrt_math.h(525,47): error C2375: “lround”: 重定义；不同的链接
+D:\cLearning\VisualStudio2012\Version_test.h(74,13): message : 参见“lround”的声明
+  reverse-iter.cpp
+  reverse.cpp
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt\corecrt_math.h(525,47): error C2375: “lround”: 重定义；不同的链接
+D:\cLearning\VisualStudio2012\Version_test.h(74,13): message : 参见“lround”的声明
+D:\cLearning\VisualStudio2012\10\reverse.cpp(61,6): warning C4834: 放弃具有 "nodiscard" 属性的函数的返回值
+D:\cLearning\VisualStudio2012\10\reverse.cpp(62,9): warning C4834: 放弃具有 "nodiscard" 属性的函数的返回值
+  sortSI.cpp
+D:\cLearning\VisualStudio2012\10\sortSI.cpp(39,10): fatal  error C1083: 无法打开包括文件: “Sales_item.h”: No such file or directory
+  use-istream-iter.cpp
+  use_find.cpp
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt\corecrt_math.h(525,47): error C2375: “lround”: 重定义；不同的链接
+D:\cLearning\VisualStudio2012\Version_test.h(74,13): message : 参见“lround”的声明
+  erasemap.cpp
+  正在生成代码...
+  正在编译...
+  map1.cpp
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt\corecrt_math.h(525,47): error C2375: “lround”: 重定义；不同的链接
+D:\cLearning\VisualStudio2012\Version_test.h(74,13): message : 参见“lround”的声明
+D:\cLearning\VisualStudio2012\11\map1.cpp(47,10): fatal  error C1083: 无法打开包括文件: “Sales_data.h”: No such file or directory
+  multimap.cpp
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt\corecrt_math.h(525,47): error C2375: “lround”: 重定义；不同的链接
+D:\cLearning\VisualStudio2012\Version_test.h(74,13): message : 参见“lround”的声明
+  pair.cpp
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt\corecrt_math.h(525,47): error C2375: “lround”: 重定义；不同的链接
+D:\cLearning\VisualStudio2012\Version_test.h(74,13): message : 参见“lround”的声明
+D:\cLearning\VisualStudio2012\11\pair.cpp(53,10): fatal  error C1083: 无法打开包括文件: “Sales_data.h”: No such file or directory
+  restricted_count.cpp
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt\corecrt_math.h(525,47): error C2375: “lround”: 重定义；不同的链接
+D:\cLearning\VisualStudio2012\Version_test.h(74,13): message : 参见“lround”的声明
+  setOps.cpp
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt\corecrt_math.h(525,47): error C2375: “lround”: 重定义；不同的链接
+D:\cLearning\VisualStudio2012\Version_test.h(74,13): message : 参见“lround”的声明
+D:\cLearning\VisualStudio2012\11\setOps.cpp(55,21): warning C4267: “参数”: 从“size_t”转换到“_Ty”，可能丢失数据
+          with
+          [
+              _Ty=int
+          ]
+D:\cLearning\VisualStudio2012\11\setOps.cpp(56,21): warning C4267: “参数”: 从“size_t”转换到“_Ty”，可能丢失数据
+          with
+          [
+              _Ty=int
+          ]
+D:\cLearning\VisualStudio2012\11\setOps.cpp(68,11): warning C4834: 放弃具有 "nodiscard" 属性的函数的返回值
+D:\cLearning\VisualStudio2012\11\setOps.cpp(69,11): warning C4834: 放弃具有 "nodiscard" 属性的函数的返回值
+D:\cLearning\VisualStudio2012\11\setOps.cpp(70,12): warning C4834: 放弃具有 "nodiscard" 属性的函数的返回值
+D:\cLearning\VisualStudio2012\11\setOps.cpp(71,12): warning C4834: 放弃具有 "nodiscard" 属性的函数的返回值
+D:\cLearning\VisualStudio2012\11\setOps.cpp(74,11): warning C4834: 放弃具有 "nodiscard" 属性的函数的返回值
+D:\cLearning\VisualStudio2012\11\setOps.cpp(75,11): warning C4834: 放弃具有 "nodiscard" 属性的函数的返回值
+D:\cLearning\VisualStudio2012\11\setOps.cpp(76,13): warning C4834: 放弃具有 "nodiscard" 属性的函数的返回值
+D:\cLearning\VisualStudio2012\11\setOps.cpp(77,13): warning C4834: 放弃具有 "nodiscard" 属性的函数的返回值
+  unorderedWordCount.cpp
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt\corecrt_math.h(525,47): error C2375: “lround”: 重定义；不同的链接
+D:\cLearning\VisualStudio2012\Version_test.h(74,13): message : 参见“lround”的声明
+D:\cLearning\VisualStudio2012\11\unorderedWordCount.cpp(49,10): fatal  error C1083: 无法打开包括文件: “Sales_data.h”: No such file or directory
+  wcEx.cpp
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt\corecrt_math.h(525,47): error C2375: “lround”: 重定义；不同的链接
+D:\cLearning\VisualStudio2012\Version_test.h(74,13): message : 参见“lround”的声明
+  word_count.cpp
+  word_transform.cpp
+  allocPtr.cpp
+  allocSP.cpp
+  oknew.cpp
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt\corecrt_math.h(525,47): error C2375: “lround”: 重定义；不同的链接
+D:\cLearning\VisualStudio2012\Version_test.h(74,13): message : 参见“lround”的声明
+  querymain.cpp
+D:\cLearning\VisualStudio2012\12\querymain.cpp(43,10): fatal  error C1083: 无法打开包括文件: “make_plural.h”: No such file or directory
+  release.cpp
+  TextQuery.cpp
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt\corecrt_math.h(525,47): error C2375: “lround”: 重定义；不同的链接
+D:\cLearning\VisualStudio2012\Version_test.h(74,13): message : 参见“lround”的声明
+D:\cLearning\VisualStudio2012\12\TextQuery.cpp(31,10): fatal  error C1083: 无法打开包括文件: “make_plural.h”: No such file or directory
+  unique.cpp
+  UP.cpp
+D:\cLearning\VisualStudio2012\12\UP.cpp(38,11): warning C4267: “=”: 从“size_t”转换到“_Ty”，可能丢失数据
+          with
+          [
+              _Ty=int
+          ]
+D:\cLearning\VisualStudio2012\12\UP.cpp(46,21): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+  usealloc.cpp
+  usealloc2.cpp
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt\corecrt_math.h(525,47): error C2375: “lround”: 重定义；不同的链接
+D:\cLearning\VisualStudio2012\Version_test.h(74,13): message : 参见“lround”的声明
+  useBlob.cpp
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt\corecrt_math.h(525,47): error C2375: “lround”: 重定义；不同的链接
+D:\cLearning\VisualStudio2012\Version_test.h(74,13): message : 参见“lround”的声明
+  正在生成代码...
+  正在编译...
+  weak.cpp
+  copyNoMove.cpp
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt\corecrt_math.h(525,47): error C2375: “lround”: 重定义；不同的链接
+D:\cLearning\VisualStudio2012\Version_test.h(74,13): message : 参见“lround”的声明
+  Folder.cpp
+  FolderMain.cpp
+  HasPtrUseCount.cpp
+  HasPtrValueLike.cpp
+  moveHP.cpp
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt\corecrt_math.h(525,47): error C2375: “lround”: 重定义；不同的链接
+D:\cLearning\VisualStudio2012\Version_test.h(74,13): message : 参见“lround”的声明
+  serial.cpp
+  StrFolder.cpp
+  StrFolderMain.cpp
+  String.cpp
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt\corecrt_math.h(525,47): error C2375: “lround”: 重定义；不同的链接
+D:\cLearning\VisualStudio2012\Version_test.h(74,13): message : 参见“lround”的声明
+  StrVec.cpp
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt\corecrt_math.h(525,47): error C2375: “lround”: 重定义；不同的链接
+D:\cLearning\VisualStudio2012\Version_test.h(74,13): message : 参见“lround”的声明
+  substr.cpp
+  useStrVec.cpp
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt\corecrt_math.h(525,47): error C2375: “lround”: 重定义；不同的链接
+D:\cLearning\VisualStudio2012\Version_test.h(74,13): message : 参见“lround”的声明
+  absInt.cpp
+  add.cpp
+D:\cLearning\VisualStudio2012\14\add.cpp(34,10): fatal  error C1083: 无法打开包括文件: “Sales_item.h”: No such file or directory
+  calc.cpp
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt\corecrt_math.h(525,47): error C2375: “lround”: 重定义；不同的链接
+D:\cLearning\VisualStudio2012\Version_test.h(74,13): message : 参见“lround”的声明
+  directcall.cpp
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt\corecrt_math.h(525,47): error C2375: “lround”: 重定义；不同的链接
+D:\cLearning\VisualStudio2012\Version_test.h(74,13): message : 参见“lround”的声明
+  fcnobj.cpp
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt\corecrt_math.h(525,47): error C2375: “lround”: 重定义；不同的链接
+D:\cLearning\VisualStudio2012\Version_test.h(74,13): message : 参见“lround”的声明
+  newcount-size.cpp
+D:\cLearning\VisualStudio2012\14\newcount-size.cpp(32,10): fatal  error C1083: 无法打开包括文件: “make_plural.h”: No such file or directory
+  正在生成代码...
+  正在编译...
+  readStr.cpp
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt\corecrt_math.h(525,47): error C2375: “lround”: 重定义；不同的链接
+D:\cLearning\VisualStudio2012\Version_test.h(74,13): message : 参见“lround”的声明
+D:\cLearning\VisualStudio2012\14\readStr.cpp(61,51): error C2440: “return”: 无法从“std::basic_istream<char,std::char_traits<char>>”转换为“bool”
+D:\cLearning\VisualStudio2012\14\readStr.cpp(61,51): message : 没有可用于执行该转换的用户定义的转换运算符，或者无法调用该运算符
+  Sales_data.cpp
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt\corecrt_math.h(525,47): error C2375: “lround”: 重定义；不同的链接
+D:\cLearning\VisualStudio2012\Version_test.h(74,13): message : 参见“lround”的声明
+  andQueryTest.cpp
+D:\cLearning\VisualStudio2012\15\Query.h(34,10): fatal  error C1083: 无法打开包括文件: “TextQuery.h”: No such file or directory
+  and_orQueryTest.cpp
+D:\cLearning\VisualStudio2012\15\Query.h(34,10): fatal  error C1083: 无法打开包括文件: “TextQuery.h”: No such file or directory
+  Basket.cpp
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt\corecrt_math.h(525,47): error C2375: “lround”: 重定义；不同的链接
+D:\cLearning\VisualStudio2012\Version_test.h(74,13): message : 参见“lround”的声明
+  Basket_main.cpp
+  get_print.cpp
+D:\cLearning\VisualStudio2012\15\Query.h(34,10): fatal  error C1083: 无法打开包括文件: “TextQuery.h”: No such file or directory
+  Query.cpp
+D:\cLearning\VisualStudio2012\15\Query.h(34,10): fatal  error C1083: 无法打开包括文件: “TextQuery.h”: No such file or directory
+  Quote.cpp
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt\corecrt_math.h(525,47): error C2375: “lround”: 重定义；不同的链接
+D:\cLearning\VisualStudio2012\Version_test.h(74,13): message : 参见“lround”的声明
+  sample.cpp
+  scope.cpp
+  useQuote.cpp
+  vecBasket.cpp
+  virtualsNscope.cpp
+  wordQueryTest.cpp
+D:\cLearning\VisualStudio2012\15\Query.h(34,10): fatal  error C1083: 无法打开包括文件: “TextQuery.h”: No such file or directory
+  array-parms4.cpp
+  Array.cpp
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt\corecrt_math.h(525,47): error C2375: “lround”: 重定义；不同的链接
+D:\cLearning\VisualStudio2012\Version_test.h(74,13): message : 参见“lround”的声明
+D:\cLearning\VisualStudio2012\16\Array.cpp(98,17): warning C4267: “=”: 从“size_t”转换到“T”，可能丢失数据
+          with
+          [
+              T=int
+          ]
+  build.cpp
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt\corecrt_math.h(525,47): error C2375: “lround”: 重定义；不同的链接
+D:\cLearning\VisualStudio2012\Version_test.h(74,13): message : 参见“lround”的声明
+  compare.cpp
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt\corecrt_math.h(525,47): error C2375: “lround”: 重定义；不同的链接
+D:\cLearning\VisualStudio2012\Version_test.h(74,13): message : 参见“lround”的声明
+  compareDef.cpp
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt\corecrt_math.h(525,47): error C2375: “lround”: 重定义；不同的链接
+D:\cLearning\VisualStudio2012\Version_test.h(74,13): message : 参见“lround”的声明
+D:\cLearning\VisualStudio2012\16\Sales_data.h(40,35): warning C4099: “std::hash<Sales_data>”: 类型名称以前使用“struct”现在使用的是“class”
+D:\cLearning\VisualStudio2012\16\Sales_data.h(40,19): message : 参见“std::hash<Sales_data>”的声明
+  正在生成代码...
+  正在编译...
+  compareSpec.cpp
+  debug.cpp
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt\corecrt_math.h(525,47): error C2375: “lround”: 重定义；不同的链接
+D:\cLearning\VisualStudio2012\Version_test.h(74,13): message : 参见“lround”的声明
+  expansion.cpp
+  flip.cpp
+  multiset.cpp
+D:\cLearning\VisualStudio2012\16\Sales_data.h(40,35): warning C4099: “std::hash<Sales_data>”: 类型名称以前使用“struct”现在使用的是“class”
+D:\cLearning\VisualStudio2012\16\Sales_data.h(40,19): message : 参见“std::hash<Sales_data>”的声明
+  overSpec.cpp
+  qm.cpp
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt\corecrt_math.h(525,47): error C2375: “lround”: 重定义；不同的链接
+D:\cLearning\VisualStudio2012\Version_test.h(74,13): message : 参见“lround”的声明
+  Sales_data.cpp
+D:\cLearning\VisualStudio2012\16\Sales_data.h(40,35): warning C4099: “std::hash<Sales_data>”: 类型名称以前使用“struct”现在使用的是“class”
+D:\cLearning\VisualStudio2012\16\Sales_data.h(40,19): message : 参见“std::hash<Sales_data>”的声明
+  SP.cpp
+  special.cpp
+  trail-ret.cpp
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt\corecrt_math.h(525,47): error C2375: “lround”: 重定义；不同的链接
+D:\cLearning\VisualStudio2012\Version_test.h(74,13): message : 参见“lround”的声明
+  typealias.cpp
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt\corecrt_math.h(525,47): error C2375: “lround”: 重定义；不同的链接
+D:\cLearning\VisualStudio2012\Version_test.h(74,13): message : 参见“lround”的声明
+  useBlob.cpp
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt\corecrt_math.h(525,47): error C2375: “lround”: 重定义；不同的链接
+D:\cLearning\VisualStudio2012\Version_test.h(74,13): message : 参见“lround”的声明
+  useChcking.cpp
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt\corecrt_math.h(525,47): error C2375: “lround”: 重定义；不同的链接
+D:\cLearning\VisualStudio2012\Version_test.h(74,13): message : 参见“lround”的声明
+  variadic.cpp
+  variadic3.cpp
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt\corecrt_math.h(525,47): error C2375: “lround”: 重定义；不同的链接
+D:\cLearning\VisualStudio2012\Version_test.h(74,13): message : 参见“lround”的声明
+D:\cLearning\VisualStudio2012\16\Sales_data.h(40,35): warning C4099: “std::hash<Sales_data>”: 类型名称以前使用“struct”现在使用的是“class”
+D:\cLearning\VisualStudio2012\16\Sales_data.h(40,19): message : 参见“std::hash<Sales_data>”的声明
+D:\cLearning\VisualStudio2012\16\variadic3.cpp(65,47): error C2061: 语法错误: 标识符“initializer_list”
+D:\cLearning\VisualStudio2012\16\variadic3.cpp(79,34): error C2065: “initializer_list”: 未声明的标识符
+D:\cLearning\VisualStudio2012\16\variadic3.cpp(79,54): error C2065: “il”: 未声明的标识符
+D:\cLearning\VisualStudio2012\16\variadic3.cpp(80,1): error C2447: “{”: 缺少函数标题(是否是老式的形式表?)
+D:\cLearning\VisualStudio2012\16\variadic3.cpp(92,24): error C2365: “min_elem”: 重定义；以前的定义是“数据变量”
+D:\cLearning\VisualStudio2012\16\variadic3.cpp(79,25): message : 参见“min_elem”的声明
+D:\cLearning\VisualStudio2012\16\variadic3.cpp(98,3): error C2365: “min_elem”: 重定义；以前的定义是“数据变量”
+D:\cLearning\VisualStudio2012\16\variadic3.cpp(79,25): message : 参见“min_elem”的声明
+D:\cLearning\VisualStudio2012\16\variadic3.cpp(110,10): error C3245: “min_elem”: 使用变量模板需要模板参数列表
+D:\cLearning\VisualStudio2012\16\variadic3.cpp(79,25): message : 参见“min_elem”的声明
+D:\cLearning\VisualStudio2012\16\variadic3.cpp(113,10): error C3245: “min_elem”: 使用变量模板需要模板参数列表
+D:\cLearning\VisualStudio2012\16\variadic3.cpp(79,25): message : 参见“min_elem”的声明
+D:\cLearning\VisualStudio2012\16\variadic3.cpp(116,10): error C2672: “bigger”: 未找到匹配的重载函数
+D:\cLearning\VisualStudio2012\16\variadic3.cpp(65,28): message : 可能是“bool bigger(const T &)”
+D:\cLearning\VisualStudio2012\16\variadic3.cpp(116,10): message : “bool bigger(const T &)”: 应输入 1 个参数，却提供了 2 个
+D:\cLearning\VisualStudio2012\16\variadic3.cpp(127,1): fatal  error C1019: 意外的 #else
+  Vecmain.cpp
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt\corecrt_math.h(525,47): error C2375: “lround”: 重定义；不同的链接
+D:\cLearning\VisualStudio2012\Version_test.h(74,13): message : 参见“lround”的声明
+  badgetc.cpp
+  bits.cpp
+D:\cLearning\VisualStudio2012\17\bits.cpp(77,2): warning C4834: 放弃具有 "nodiscard" 属性的函数的返回值
+D:\cLearning\VisualStudio2012\17\bits.cpp(103,13): warning C4834: 放弃具有 "nodiscard" 属性的函数的返回值
+D:\cLearning\VisualStudio2012\17\bits.cpp(85,10): warning C4390: “;”: 找到空的受控语句；这是否是有意的?
+D:\cLearning\VisualStudio2012\17\bits.cpp(90,10): warning C4390: “;”: 找到空的受控语句；这是否是有意的?
+  ccpgms.cpp
+  正在生成代码...
+  正在编译...
+  findbook.cpp
+D:\cLearning\VisualStudio2012\17\findbook.cpp(61,10): fatal  error C1083: 无法打开包括文件: “Sales_data.h”: No such file or directory
+  game.cpp
+  getc.cpp
+  getput.cpp
+  manips.cpp
+D:\cLearning\VisualStudio2012\17\manips.cpp(44,7): warning C4101: “b”: 未引用的局部变量
+  manips11.cpp
+  no-skipws.cpp
+  normalInts.cpp
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt\corecrt_math.h(525,47): error C2375: “lround”: 重定义；不同的链接
+D:\cLearning\VisualStudio2012\Version_test.h(74,13): message : 参见“lround”的声明
+D:\cLearning\VisualStudio2012\17\normalInts.cpp(73,27): error C2264: “lround”: 函数定义或声明中有错误；未调用函数
+  phones.cpp
+  phonesFinal.cpp
+  point.cpp
+  prec.cpp
+  rand1.cpp
+D:\cLearning\VisualStudio2012\17\rand1.cpp(94,31): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+  rand2.cpp
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt\corecrt_math.h(525,47): error C2375: “lround”: 重定义；不同的链接
+D:\cLearning\VisualStudio2012\Version_test.h(74,13): message : 参见“lround”的声明
+D:\cLearning\VisualStudio2012\17\rand2.cpp(82,25): error C2264: “lround”: 函数定义或声明中有错误；未调用函数
+  rand4.cpp
+  rand6.cpp
+  REerrs.cpp
+  regex1.cpp
+  sci_dec.cpp
+  seed.cpp
+  正在生成代码...
+  正在编译...
+  seek.cpp
+  setw.cpp
+  skipws.cpp
+  subexpr.cpp
+  tuple.cpp
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt\corecrt_math.h(525,47): error C2375: “lround”: 重定义；不同的链接
+D:\cLearning\VisualStudio2012\Version_test.h(74,13): message : 参见“lround”的声明
+  validatePhones.cpp
+  zips.cpp
+  Animal.cpp
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt\corecrt_math.h(525,47): error C2375: “lround”: 重定义；不同的链接
+D:\cLearning\VisualStudio2012\Version_test.h(74,13): message : 参见“lround”的声明
+  book.cpp
+D:\cLearning\VisualStudio2012\18\book.cpp(30,10): fatal  error C1083: 无法打开包括文件: “Sales_data.h”: No such file or directory
+  class.cpp
+  ex-over.cpp
+  inherit.cpp
+  mi-scope.cpp
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt\corecrt_math.h(525,47): error C2375: “lround”: 重定义；不同的链接
+D:\cLearning\VisualStudio2012\Version_test.h(74,13): message : 参见“lround”的声明
+  over.cpp
+  over2.cpp
+  Sales_data.cpp
+D:\cLearning\VisualStudio2012\18\Sales_data.cpp(33,10): fatal  error C1083: 无法打开包括文件: “Sales_data.h”: No such file or directory
+  spec.cpp
+  usingDirective.cpp
+  virt-inherit.cpp
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt\corecrt_math.h(525,47): error C2375: “lround”: 重定义；不同的链接
+D:\cLearning\VisualStudio2012\Version_test.h(74,13): message : 参见“lround”的声明
+  bitfields.cpp
+D:\cLearning\VisualStudio2012\19\bitfields.cpp(63,2): warning C4390: “;”: 找到空的受控语句；这是否是有意的?
+  正在生成代码...
+  正在编译...
+  calc.cpp
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt\corecrt_math.h(525,47): error C2375: “lround”: 重定义；不同的链接
+D:\cLearning\VisualStudio2012\Version_test.h(74,13): message : 参见“lround”的声明
+  dyn_cast.cpp
+  enum-match.cpp
+  enum.cpp
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt\corecrt_math.h(525,47): error C2375: “lround”: 重定义；不同的链接
+D:\cLearning\VisualStudio2012\Version_test.h(74,13): message : 参见“lround”的声明
+  memFN-bind.cpp
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt\corecrt_math.h(525,47): error C2375: “lround”: 重定义；不同的链接
+D:\cLearning\VisualStudio2012\Version_test.h(74,13): message : 参见“lround”的声明
+  Screen.cpp
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt\corecrt_math.h(525,47): error C2375: “lround”: 重定义；不同的链接
+D:\cLearning\VisualStudio2012\Version_test.h(74,13): message : 参见“lround”的声明
+  tok2.cpp
+  typeid.cpp
+D:\cLearning\VisualStudio2012\19\typeid.cpp(30,10): fatal  error C1083: 无法打开包括文件: “Sales_data.h”: No such file or directory
+  useScreen.cpp
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt\corecrt_math.h(525,47): error C2375: “lround”: 重定义；不同的链接
+D:\cLearning\VisualStudio2012\Version_test.h(74,13): message : 参见“lround”的声明
+  add.cpp
+  add_item.cpp
+  add_item2.cpp
+  avg_price.cpp
+  forcount.cpp
+  for_ex.cpp
+  item_io.cpp
+  main_only.cpp
+  mysum.cpp
+  occurs.cpp
+  whilecount.cpp
+  正在生成代码...
+  正在编译...
+  compounddecls.cpp
+  convs.cpp
+D:\cLearning\VisualStudio2012\2\convs.cpp(40,9): warning C4305: “初始化”: 从“int”到“bool”截断
+D:\cLearning\VisualStudio2012\2\convs.cpp(49,6): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+  dbl_ptr.cpp
+  decl-ex.cpp
+  escape.cpp
+  inits.cpp
+D:\cLearning\VisualStudio2012\2\inits.cpp(58,10): fatal  error C1083: 无法打开包括文件: “Sales_item.h”: No such file or directory
+  literals.cpp
+D:\cLearning\VisualStudio2012\2\literals.cpp(45,30): warning C4146: 一元负运算符应用于无符号类型，结果仍为无符号类型
+  ref-ex.cpp
+  Sales_data.cpp
+  scope_levels.cpp
+  unsigned.cpp
+D:\cLearning\VisualStudio2012\2\unsigned.cpp(80,8): warning C4018: “<”: 有符号/无符号不匹配
+  add_using.cpp
+  arrayScores.cpp
+  cctype.cpp
+  char_repl.cpp
+  cstring_hdr.cpp
+D:\cLearning\VisualStudio2012\3\cstring_hdr.cpp(68,2): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\cLearning\VisualStudio2012\3\cstring_hdr.cpp(69,2): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\cLearning\VisualStudio2012\3\cstring_hdr.cpp(70,2): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\cLearning\VisualStudio2012\3\cstring_hdr.cpp(74,2): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\cLearning\VisualStudio2012\3\cstring_hdr.cpp(77,2): warning C4996: 'strncat': This function or variable may be unsafe. Consider using strncat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\cLearning\VisualStudio2012\3\cstring_hdr.cpp(78,2): warning C4996: 'strncat': This function or variable may be unsafe. Consider using strncat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  getline.cpp
+  hexify.cpp
+  multidim.cpp
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt\corecrt_math.h(525,47): error C2375: “lround”: 重定义；不同的链接
+D:\cLearning\VisualStudio2012\Version_test.h(74,13): message : 参见“lround”的声明
+D:\cLearning\VisualStudio2012\3\multidim.cpp(92,35): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+D:\cLearning\VisualStudio2012\3\multidim.cpp(142,10): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+  ptr_traversal2.cpp
+  正在生成代码...
+  正在编译...
+  square.cpp
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt\corecrt_math.h(525,47): error C2375: “lround”: 重定义；不同的链接
+D:\cLearning\VisualStudio2012\Version_test.h(74,13): message : 参见“lround”的声明
+  strcompare.cpp
+  string_add.cpp
+  string_io.cpp
+  string_io2.cpp
+  string_size.cpp
+  string_size2.cpp
+  string_size3.cpp
+  vecScores.cpp
+  vecStrings2.cpp
+  vecSubs.cpp
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt\corecrt_math.h(525,47): error C2375: “lround”: 重定义；不同的链接
+D:\cLearning\VisualStudio2012\Version_test.h(74,13): message : 参见“lround”的声明
+D:\cLearning\VisualStudio2012\3\vecSubs.cpp(58,26): warning C4267: “参数”: 从“size_t”转换到“_Ty”，可能丢失数据
+          with
+          [
+              _Ty=int
+          ]
+  vec_decls.cpp
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt\corecrt_math.h(525,47): error C2375: “lround”: 重定义；不同的链接
+D:\cLearning\VisualStudio2012\Version_test.h(74,13): message : 参见“lround”的声明
+D:\cLearning\VisualStudio2012\3\vec_decls.cpp(41,10): fatal  error C1083: 无法打开包括文件: “Sales_item.h”: No such file or directory
+  word_echo.cpp
+  arith-ex.cpp
+  arraysizeof.cpp
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt\corecrt_math.h(525,47): error C2375: “lround”: 重定义；不同的链接
+D:\cLearning\VisualStudio2012\Version_test.h(74,13): message : 参见“lround”的声明
+  cond.cpp
+  incr.cpp
+  int-div.cpp
+  oofe.cpp
+  overflow.cpp
+  正在生成代码...
+  正在编译...
+  prec.cpp
+  shift-prec.cpp
+  sizeof_pgm.cpp
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt\corecrt_math.h(525,47): error C2375: “lround”: 重定义；不同的链接
+D:\cLearning\VisualStudio2012\Version_test.h(74,13): message : 参见“lround”的声明
+D:\cLearning\VisualStudio2012\4\sizeof_pgm.cpp(35,10): fatal  error C1083: 无法打开包括文件: “Sales_data.h”: No such file or directory
+  unaryOps.cpp
+D:\cLearning\VisualStudio2012\4\unaryOps.cpp(39,12): warning C4804: “-”: 在操作中使用类型“bool”不安全
+  vec_init.cpp
+D:\cLearning\VisualStudio2012\4\vec_init.cpp(54,20): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+  warn_dbltoint.cpp
+D:\cLearning\VisualStudio2012\4\warn_dbltoint.cpp(36,11): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+  add_item2.cpp
+D:\cLearning\VisualStudio2012\5\add_item2.cpp(36,10): fatal  error C1083: 无法打开包括文件: “Sales_item.h”: No such file or directory
+  doWhile.cpp
+  guess.cpp
+  ifgrades.cpp
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt\corecrt_math.h(525,47): error C2375: “lround”: 重定义；不同的链接
+D:\cLearning\VisualStudio2012\Version_test.h(74,13): message : 参见“lround”的声明
+  othercnt.cpp
+  rangefor.cpp
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt\corecrt_math.h(525,47): error C2375: “lround”: 重定义；不同的链接
+D:\cLearning\VisualStudio2012\Version_test.h(74,13): message : 参见“lround”的声明
+  vowels.cpp
+  arrRet.cpp
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt\corecrt_math.h(525,47): error C2375: “lround”: 重定义；不同的链接
+D:\cLearning\VisualStudio2012\Version_test.h(74,13): message : 参见“lround”的声明
+  count-calls.cpp
+  errMsg_initList.cpp
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt\corecrt_math.h(525,47): error C2375: “lround”: 重定义；不同的链接
+D:\cLearning\VisualStudio2012\Version_test.h(74,13): message : 参见“lround”的声明
+  fact.cpp
+  fcnptrRet.cpp
+  good_printmain.cpp
+  inline_shorter.cpp
+  正在生成代码...
+  正在编译...
+  LocalMath.cpp
+  mainmath.cpp
+  mainret.cpp
+  mk_plural.cpp
+  ref-fcn.cpp
+  refparms.cpp
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt\corecrt_math.h(525,47): error C2375: “lround”: 重定义；不同的链接
+D:\cLearning\VisualStudio2012\Version_test.h(74,13): message : 参见“lround”的声明
+  refret-ex.cpp
+  reset.cpp
+  stl-arr-fcns.cpp
+  usefcnptr.cpp
+  use_mk_plural.cpp
+  wdebug.cpp
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt\corecrt_math.h(525,47): error C2375: “lround”: 重定义；不同的链接
+D:\cLearning\VisualStudio2012\Version_test.h(74,13): message : 参见“lround”的声明
+  Account.cpp
+  add_item.cpp
+  avg_price.cpp
+  Debug.cpp
+  Sales_data.cpp
+  useAccount.cpp
+  useDebug.cpp
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt\corecrt_math.h(525,47): error C2375: “lround”: 重定义；不同的链接
+D:\cLearning\VisualStudio2012\Version_test.h(74,13): message : 参见“lround”的声明
+  useScreen.cpp
+  正在生成代码...
+  正在编译...
+  add_item.cpp
+D:\cLearning\VisualStudio2012\8\add_item.cpp(30,10): fatal  error C1083: 无法打开包括文件: “Sales_data.h”: No such file or directory
+  add_itemV2.cpp
+D:\cLearning\VisualStudio2012\8\add_itemV2.cpp(30,10): fatal  error C1083: 无法打开包括文件: “Sales_data.h”: No such file or directory
+  buf.cpp
+  clearIO.cpp
+  fileIO.cpp
+  sstream.cpp
+  capacity.cpp
+D:\cLearning\VisualStudio2012\9\capacity.cpp(46,25): warning C4267: “参数”: 从“size_t”转换到“_Ty”，可能丢失数据
+          with
+          [
+              _Ty=int
+          ]
+  erase1.cpp
+  erase2.cpp
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt\corecrt_math.h(525,47): error C2375: “lround”: 重定义；不同的链接
+D:\cLearning\VisualStudio2012\Version_test.h(74,13): message : 参见“lround”的声明
+  find-str.cpp
+  find_ops.cpp
+  refreshIter.cpp
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt\corecrt_math.h(525,47): error C2375: “lround”: 重定义；不同的链接
+D:\cLearning\VisualStudio2012\Version_test.h(74,13): message : 参见“lround”的声明
+  stack.cpp
+D:\cLearning\VisualStudio2012\9\stack.cpp(50,20): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+  str_assignOps.cpp
+  substr.cpp
+  useConvs.cpp
+  正在生成代码...
